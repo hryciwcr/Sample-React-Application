@@ -1,0 +1,9 @@
+.SearchBox {
+	padding: .5rem;
+}
+
+.input {
+	padding: 1rem;
+	border-color: #19a974;
+	background-color: #cdecff;
+}

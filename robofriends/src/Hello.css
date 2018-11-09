@@ -1,0 +1,15 @@
+h1 {
+	background: red;
+}
+
+.hello {
+	text-align: center;
+	background: blue;
+	font-size: 3rem;
+}
+
+.paragraph {
+	text-align: center;
+	font-size: 2em;
+	background: linear-gradient(to right, red, yellow);
+}
